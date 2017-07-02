@@ -1,0 +1,6 @@
+E:\WorkSpace\VitalFeatures\VitalFeatures\bin\Debug\VitalFeatures.exe.config
+E:\WorkSpace\VitalFeatures\VitalFeatures\bin\Debug\VitalFeatures.exe
+E:\WorkSpace\VitalFeatures\VitalFeatures\bin\Debug\VitalFeatures.pdb
+E:\WorkSpace\VitalFeatures\VitalFeatures\obj\Debug\VitalFeatures.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VitalFeatures\VitalFeatures\obj\Debug\VitalFeatures.exe
+E:\WorkSpace\VitalFeatures\VitalFeatures\obj\Debug\VitalFeatures.pdb

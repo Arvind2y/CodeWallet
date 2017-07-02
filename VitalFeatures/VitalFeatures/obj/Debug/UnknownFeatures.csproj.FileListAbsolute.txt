@@ -1,0 +1,6 @@
+E:\WorkSpace\UnknownFeatures\UnknownFeatures\bin\Debug\UnknownFeatures.exe.config
+E:\WorkSpace\UnknownFeatures\UnknownFeatures\obj\Debug\UnknownFeatures.csprojResolveAssemblyReference.cache
+E:\WorkSpace\UnknownFeatures\UnknownFeatures\bin\Debug\UnknownFeatures.exe
+E:\WorkSpace\UnknownFeatures\UnknownFeatures\bin\Debug\UnknownFeatures.pdb
+E:\WorkSpace\UnknownFeatures\UnknownFeatures\obj\Debug\UnknownFeatures.exe
+E:\WorkSpace\UnknownFeatures\UnknownFeatures\obj\Debug\UnknownFeatures.pdb
